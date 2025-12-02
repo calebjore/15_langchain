@@ -8,5 +8,5 @@ To use, create a `.env` file with your Google API key as demonstrated in `.env.s
 
 Sample output: 
 
-[image](output.png)
+![image](output.png)
 
