@@ -6,7 +6,7 @@ To solve this, I created a custom `rock_paper_scissors` tool that generates a ra
 
 To use, create a `.env` file with your Google API key as demonstrated in `.env.sample`. Then run `llm.py` in your terminal!
 
-Sample output: 
+Here's Gemini coming back to beat me in a thrilling best of 5 match: 
 
 ![image](output.png)
 
